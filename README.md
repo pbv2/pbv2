@@ -1,11 +1,11 @@
-<h1 color="black" align="center"> Hi, I'm Pedro Veríssimo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
-<br/>
-<img align='right' src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="230">
+<h2 color="black" align="center"> Hi, I'm Pedro Veríssimo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Intern Full Stack Web Dev at <a href="https://pegasustec.com.br">Pegasus Tecnologia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: pedrobverissimo](https://img.shields.io/badge/-pedrobverissimo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrobverissimo/)](https://www.linkedin.com/in/pedrobverissimo/)
 [![GitHub pbv2](https://img.shields.io/github/followers/pbv2?label=follow&style=social)](https://github.com/pbv2)
+[![]
 
 <h2 align='left'>#About me: 💁🏻‍♀️</h2>
 <p align='left' color="grey" font-size="20px">I'm Pedro Veríssimo, <br/>Beginner Full-Stack Web Developer <br/> and passionate about learning.</p>
