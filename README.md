@@ -1,6 +1,6 @@
 <h1 color="black" align="center"> Hi, I'm Pedro Veríssimo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <br/>
-<img align='right' src="https://gph.is/g/4o6B0Km" width="230">
+<img align='right' src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="230">
 <p><em>Intern Full Stack Web Dev at <a href="https://pegasustec.com.br">Pegasus Tecnologia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
