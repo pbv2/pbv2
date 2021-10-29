@@ -1,17 +1,22 @@
 <h2 color="black" align="center"> Hi, I'm Pedro Veríssimo <img src="https://media.giphy.com/media/lwnVQjawHHwWFbJZuI/giphy.gif" width="50"> </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Intern Full Stack Web Dev at <a href="https://pegasustec.com.br">Pegasus Tecnologia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Enthusiastic Back-End/Web Dev<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: pedrobverissimo](https://img.shields.io/badge/-pedrobverissimo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrobverissimo/)](https://www.linkedin.com/in/pedrobverissimo/)
+[![Gmail Badge](https://img.shields.io/badge/-pbv2@cin.ufpe.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:pbv2@cin.ufpe.br)
 [![GitHub pbv2](https://img.shields.io/github/followers/pbv2?label=follow&style=social)](https://github.com/pbv2)
 
-<h2 align='left'>#About me: 💁🏻‍♀️</h2>
-<p align='left' color="grey" font-size="20px">I'm Pedro Veríssimo, <br/>Beginner Full-Stack Web Developer <br/> and passionate about learning.</p>
-<p align='left'>📍Living: Recife, Brazil;<br/> </p>
+<h2 align='left'>About me</h2>
+<p align='left' color="grey" font-size="20px">
+    I'm Pedro Veríssimo, one year of practical experience with Development with Java, C#, JS, SQL, and passionate about learning.
+</p>
+<p align='left'>📍Living: Recife, Brazil;</p>
 <br/>
 <p>
-    <h2 align="rigth"><img  alt="skills"  width="50" height="50" src="icons/competence.svg"></img>#My Skills: </h2>
+    <h2 align="rigth">
+        Skills 
+    </h2>
 </p>
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,15 +30,10 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>   
 </p>
-
-<h2 align='left'>#Github: :octocat:⚙️</h2>
+<br/>
+<h2 align='left'>Github Stats</h2>
 <p align="center">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=pbv2&count_private=true&show_icons=true&theme=onedark" alt="My GitHub stats"/>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbv2&langs_count=10&layout=compact&theme=onedark" alt="Most Used Language"/>
-</p>
-<h2 align='left'>#Github Points: :octocat:🏆️</h2>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pbv2&theme=onedark&margin-w=7&hide_border=true" alt="pbv2 points"/>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pbv2.pvb2)
