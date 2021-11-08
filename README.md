@@ -1,6 +1,6 @@
 <h2 color="black" align="center"> Hi, I'm Pedro Veríssimo <img src="https://media.giphy.com/media/lwnVQjawHHwWFbJZuI/giphy.gif" width="50"> </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Enthusiastic Back-End/Web Dev<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Enthusiastic Back-End/Data Science/Web Dev<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: pedrobverissimo](https://img.shields.io/badge/-pedrobverissimo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrobverissimo/)](https://www.linkedin.com/in/pedrobverissimo/)
